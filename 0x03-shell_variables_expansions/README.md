@@ -1,1 +1,1 @@
-project of shell expansion
+shell variables expansions
